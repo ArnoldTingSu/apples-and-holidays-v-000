@@ -86,7 +86,7 @@ holiday if supplies.include?("BBQ")
 
 
 end
-end.flatten.chomp
+end.flatten.chomp!
 end
 
 
